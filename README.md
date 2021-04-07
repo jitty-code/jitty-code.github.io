@@ -4,4 +4,4 @@ I am a scripter (Discord: Sand#2930)
 
 I know a few languages, Python, HTML and a bit of JS
 
-**Please help me how to change reposiroty description**
+**Please help me how to change repository description**
